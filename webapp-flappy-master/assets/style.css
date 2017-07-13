@@ -1,0 +1,23 @@
+h1 {
+    color: Green;
+    font-size: 70px;
+    font-style: italic;
+
+}
+
+.silver {
+  color: silver;
+}
+
+.gold {
+  color: gold;
+}
+
+.bronze{
+  color: brown;
+}
+
+#gamelink {
+  text-align: center;
+  border: 1px solid grey;
+}

@@ -1,0 +1,2 @@
+Welcome to my alteration of Flappy Bird!
+Press Space to fly through the pipes but don't hit them!
